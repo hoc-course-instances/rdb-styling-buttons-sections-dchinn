@@ -25,3 +25,14 @@ a {
 .accent-color {
   color: #FFE600;
 }
+
+.button{
+  color:black;
+  background-color: yellow;
+  padding:30px;
+  margin: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display:inline-block;
+
+
+}
